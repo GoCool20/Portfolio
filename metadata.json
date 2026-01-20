@@ -1,0 +1,5 @@
+{
+  "name": "DevFolio AI",
+  "description": "A modern, AI-powered portfolio website with a built-in content optimizer using Google Gemini.",
+  "requestFramePermissions": []
+}
